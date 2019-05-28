@@ -11,6 +11,8 @@
         <platform>all</platform>
         <summary>Mixer video addon</summary>
         <description></description>
-        <language>ru</language>
+        <language>en</language>
+        <source>https://github.com/Eviloid/plugin.video.evld.mixer.com</source>
+        <news>[B]0.2.4[/B] - First public release</news>
     </extension>
 </addon>
